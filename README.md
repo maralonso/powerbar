@@ -7,7 +7,7 @@ Just a few segments to use with powerline and build a simple i3wm statusbar
 
 ## Usage
 
-Chenage your i3 config in order to use the `powerline-i3.py` bar.
+Change your i3 config in order to use the `powerline-i3.py` bar.
 
 ```
 bar {
